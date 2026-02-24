@@ -1,27 +1,85 @@
-# 💫 About Me:
-Hey there! I'm Muhammad Hassan, a passionate Mobile App Developer specializing in React Native and Firebase. 🚀 With a background in React and TypeScript, I thrive on building seamless, scalable, and efficient applications for both Android and iOS. I have hands-on experience in integrating in-app purchases, optimizing codebases, and leveraging AI capabilities to enhance user experiences.<br><br>Over the past year, I've successfully developed several AI-powered apps, including a quiz generator, storytelling tool, and poem creator, all available on Google Play with thousands of downloads. 📱 My journey began as a Web Developer Intern, where I honed my skills in HTML, CSS, JavaScript, and modern frameworks like React and Tailwind CSS.<br><br>When I'm not coding, you'll find me exploring new tech, contributing to open-source projects, and continuously learning to keep up with the ever-evolving world of software development. Let's connect and build something awesome together! 🌐<br><br>🔗 LinkedIn: linkedin.com/in/hassan39/<br>📧 Email: hassan.dev39@gmail.com<br>  <br>Portfolio: https://hassan-portfolio-zeta.vercel.app/ <br> 📍 Location: Swat, Pakistan
+<div align="center">
 
+# 💫 Muhammad Hassan
+### ⚡ Full-Stack MERN Developer | React Native Specialist | AI Innovator
+**Building high-performance applications with precision and passion.**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hassan39z) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Hassan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasankhan45l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan39) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@m.h454nkhan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Muhammad Hassan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@its_me_hassan39) 
-
-# 💻 Tech Stack:
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HASSAN39z&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HASSAN39z&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN39z&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HASSAN39z&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HASSAN39z&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Swat,%20Pakistan-00843D?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-blueviolet?style=for-the-badge" />
+  <img src="https://visitcount.itsvg.in/api?id=HASSAN39z&icon=0&color=0" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HASSAN39z&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📖 About Me
+**Developing the future, one commit at a time.**
+As a specialized **MERN & Mobile developer**, I focus on creating seamless bridges between complex backend architectures and intuitive user interfaces. With over a year of experience shipping AI-powered mobile tools to thousands of users, I excel at turning innovative ideas into scalable production code.
+
+---
+
+## 🛠️ Tech Arsenal
+
+| Category | Technologies |
+| :--- | :--- |
+| **🌐 Web** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **📱 Mobile** | ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) |
+| **⚙️ Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **🧰 Tools** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+## 🌌 My Coding Universe
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=HASSAN39z&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Hassan's Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASSAN39z&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HASSAN39z&theme=tokyonight&hide_border=false" width="100%" alt="Contribution Streak" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HASSAN39z&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🌐 Connect & Collaborate
+**Ready to build something extraordinary?**
+
+<p align="center">
+  <a href="https://linkedin.com/in/hassan39" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hassan.dev39@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://hassan-portfolio-zeta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/hassan39z" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<br />
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</p>
+
+</div>
