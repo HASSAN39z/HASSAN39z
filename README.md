@@ -5,7 +5,7 @@
 **Building high-performance applications with precision and passion.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Swat,%20Pakistan-00843D?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-00843D?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-blueviolet?style=for-the-badge" />
   <img src="https://visitcount.itsvg.in/api?id=HASSAN39z&icon=0&color=0" />
 </p>
