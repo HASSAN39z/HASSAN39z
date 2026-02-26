@@ -98,16 +98,10 @@ status     : Open to Opportunities ✅
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-psi-two-25.vercel.app/api?username=HASSAN39z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&bg_color=0d1117&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&custom_title=⚡ Achievement Stats" alt="Achievement Stats"/>
+<img height="175" src="https://github-readme-stats-psi-two-25.vercel.app/api?username=HASSAN39z&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&bg_color=0d1117&rank_icon=percentile" alt="GitHub Stats Full"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats-psi-two-25.vercel.app/api/top-langs/?username=HASSAN39z&layout=donut&hide_border=true&langs_count=6&title_color=00ffcc&text_color=ffffff&bg_color=0d1117&custom_title=🧬 Language DNA" alt="Language Donut"/>
+<img height="175" src="https://github-readme-stats-psi-two-25.vercel.app/api/top-langs/?username=HASSAN39z&layout=donut-vertical&hide_border=true&langs_count=6&title_color=00ffcc&text_color=ffffff&bg_color=0d1117" alt="Language Donut"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HASSAN39z&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
